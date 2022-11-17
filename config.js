@@ -67,10 +67,10 @@ global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.co/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '+13523884298'
-global.nomorown = '6282223011829'
-global.namebot = 'Sadcuk bot'
-global.nameown = 'Mboh'
+global.nomorbot = '6285852939370'
+global.nomorown = '6285852939370'
+global.namebot = 'RereChan bot'
+global.nameown = 'Rere'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'Nama Github Belum Diisi' // nama github lu
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282223011829', 'mboh', true],
+  ['6285852939370', 'Rerechan', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
